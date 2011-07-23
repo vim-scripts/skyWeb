@@ -1,0 +1,17 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3666
+
+A white, clean colorscheme made for CSS, HTML and PHP and increasingly more for javascript. Only for gui for the moment and only tested in MacVim 7.3.
+
+See screenshots: http://www.stud.hio.no/~s171172/skyWeb.html
+
+Among other features:
+
+-HTML tag, class and id colors match the CSS tag, class and id colors for easy recognition.
+-When you have HTML embedded in PHP I wanted the colors to clearly show the difference between the languages. This also goes for other embedded languages (I'm implementing as I stumble upon them).
+-Comfortable editing when swithching between applications.
+
+I have tried to find good colorschemes with a white background forever. The colorschemes pyte, google and macvim's default scheme, macvim, are the best ones I have found, but there is always something. If this scheme doesn't quite suite your needs I suggest trying one of those.
+
+This colorscheme is designed to provide comfortable editing when swithching between applications. Switching between black and white backgrounds forces your eyes to adjust alot, and can be uncomfortable. Since most other applications and websites have white backgrounds, so does the skyWeb scheme. And besides, good colorschemes with dark backgrounds ain't hard to come by anyway. I also wanted the scheme to be good looking (you decide if I succeeded), so the colors are given a lot of thought and tests, and still is.
+
+For the time being I mainly code in html(5), css and php, so this scheme has a focus there, but I will update it for other languages when I stumble upon them. Probably javascript, jquery and java next.
